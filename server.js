@@ -4,3 +4,4 @@ const hello =()=>{
 const helloWorld =()=>{
     return "helloWorld!!"
 }
+console.log("bag")
