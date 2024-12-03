@@ -4,3 +4,6 @@ const hello =()=>{
 const helloWorld =()=>{
     return "helloWorld!!"
 }
+const bag =()=>{
+    return "helloWorld!!"
+}
